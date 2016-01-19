@@ -1,0 +1,64 @@
+{
+  "1": {
+    "paperNo": "",
+    "ShortConversation": {
+      "direction": {
+        "intro": "",
+        "ansScore": ""
+      },
+     "options": [
+      {
+        "choice_Title": "",
+        "choice_Content": "",
+        "question": [
+          {
+            "co_No": "",
+            "co_Ans": "",
+            "co_Right": "",
+            "co_question": "",
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          }
+        ]
+      },
+      {}
+      ]
+    },
+    "LongConversation": {
+      "direction": {
+        "intro": "",
+        "ansScore": ""
+      },
+      "options": [
+        {
+          "choice_Title": "",
+          "choice_Content": "",
+          "question": [
+            {
+              "co_No": "",
+              "co_Ans": "",
+              "co_Right": "",
+              "co_question": "",
+              "A": "",
+              "B": "",
+              "C": "",
+              "D": ""
+            }
+          ]
+        },
+        {},
+        {}
+      ]
+    },
+    "LV4SP": {
+      "direction": {},
+      "options": []
+    },
+    "LV4ER": {
+      "direction": {},
+      "options": []
+    }
+  }
+}
